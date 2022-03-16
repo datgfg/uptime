@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 65,
-    "timeWeek": 99,
+    "timeDay": 83,
+    "timeWeek": 96,
     "timeMonth": 86,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 208,
-    "timeWeek": 176,
-    "timeMonth": 233,
-    "timeYear": 221,
+    "timeDay": 33,
+    "timeWeek": 140,
+    "timeMonth": 229,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2022-03-01": 26
     }
@@ -47,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 365,
-    "timeDay": 322,
-    "timeWeek": 238,
-    "timeMonth": 307,
-    "timeYear": 363,
+    "timeDay": 126,
+    "timeWeek": 243,
+    "timeMonth": 305,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2021-11-29": 51,
       "2021-09-15": 23,
@@ -89,7 +89,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
-    "timeDay": 14,
+    "timeDay": 25,
     "timeWeek": 19,
     "timeMonth": 25,
     "timeYear": 22,
@@ -101,7 +101,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "34.92%",
+    "uptime": "34.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -112,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-15": 54,
+      "2022-03-16": 54,
+      "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
@@ -475,8 +476,7 @@
       "2021-03-20": 1440,
       "2021-03-19": 1440,
       "2021-03-18": 1440,
-      "2021-03-17": 1440,
-      "2021-03-16": 1440
+      "2021-03-17": 1440
     }
   },
   {
@@ -491,7 +491,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 57,
-    "timeDay": 105,
+    "timeDay": 49,
     "timeWeek": 65,
     "timeMonth": 77,
     "timeYear": 56,
