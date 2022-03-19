@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 53,
-    "timeWeek": 91,
+    "timeDay": 65,
+    "timeWeek": 90,
     "timeMonth": 87,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 206,
-    "timeWeek": 157,
-    "timeMonth": 228,
+    "timeDay": 177,
+    "timeWeek": 172,
+    "timeMonth": 229,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2022-03-01": 26
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 365,
-    "timeDay": 385,
-    "timeWeek": 262,
-    "timeMonth": 304,
+    "timeDay": 380,
+    "timeWeek": 290,
+    "timeMonth": 305,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2021-11-29": 51,
@@ -89,7 +89,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
-    "timeDay": 9,
+    "timeDay": 14,
     "timeWeek": 18,
     "timeMonth": 25,
     "timeYear": 22,
@@ -101,7 +101,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "34.74%",
+    "uptime": "34.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -112,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-18": 52,
+      "2022-03-19": 50,
+      "2022-03-18": 1440,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
@@ -475,8 +476,7 @@
       "2021-03-23": 1440,
       "2021-03-22": 1440,
       "2021-03-21": 1440,
-      "2021-03-20": 1440,
-      "2021-03-19": 1440
+      "2021-03-20": 1440
     }
   },
   {
@@ -491,9 +491,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 56,
-    "timeDay": 28,
-    "timeWeek": 58,
-    "timeMonth": 75,
+    "timeDay": 64,
+    "timeWeek": 56,
+    "timeMonth": 77,
     "timeYear": 56,
     "dailyMinutesDown": {
       "2022-02-03": 71,
