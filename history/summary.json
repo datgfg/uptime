@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 62,
-    "timeWeek": 74,
-    "timeMonth": 87,
+    "timeDay": 53,
+    "timeWeek": 73,
+    "timeMonth": 86,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 200,
-    "timeWeek": 141,
-    "timeMonth": 202,
+    "timeDay": 182,
+    "timeWeek": 146,
+    "timeMonth": 201,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2022-03-01": 26
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 363,
-    "timeDay": 350,
-    "timeWeek": 298,
-    "timeMonth": 297,
+    "timeDay": 444,
+    "timeWeek": 311,
+    "timeMonth": 302,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2021-11-29": 51,
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
-    "timeDay": 12,
+    "timeDay": 8,
     "timeWeek": 18,
-    "timeMonth": 26,
+    "timeMonth": 25,
     "timeYear": 22,
     "dailyMinutesDown": {}
   },
@@ -101,10 +101,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "34.15%",
+    "uptime": "34.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -112,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-28": 60,
+      "2022-03-29": 59,
+      "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
@@ -475,8 +476,7 @@
       "2021-04-02": 1440,
       "2021-04-01": 1440,
       "2021-03-31": 1440,
-      "2021-03-30": 1440,
-      "2021-03-29": 1440
+      "2021-03-30": 1440
     }
   },
   {
@@ -490,10 +490,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 57,
-    "timeDay": 56,
-    "timeWeek": 56,
-    "timeMonth": 78,
+    "time": 56,
+    "timeDay": 39,
+    "timeWeek": 55,
+    "timeMonth": 76,
     "timeYear": 57,
     "dailyMinutesDown": {
       "2022-02-03": 71,
