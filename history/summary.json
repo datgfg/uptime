@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 78,
-    "timeWeek": 70,
-    "timeMonth": 76,
+    "timeDay": 86,
+    "timeWeek": 73,
+    "timeMonth": 77,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 213,
-    "timeDay": 105,
-    "timeWeek": 241,
-    "timeMonth": 201,
-    "timeYear": 235,
+    "time": 214,
+    "timeDay": 654,
+    "timeWeek": 302,
+    "timeMonth": 215,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2022-05-09": 15,
       "2022-03-01": 26
@@ -50,8 +50,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 352,
-    "timeDay": 228,
-    "timeWeek": 253,
+    "timeDay": 288,
+    "timeWeek": 252,
     "timeMonth": 267,
     "timeYear": 341,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 20,
-    "timeDay": 31,
+    "timeDay": 10,
     "timeWeek": 16,
     "timeMonth": 18,
     "timeYear": 22,
@@ -103,7 +103,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "30.13%",
+    "uptime": "30.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -114,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 805,
+      "2022-06-16": 69,
+      "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -477,8 +478,7 @@
       "2021-06-20": 1440,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
-      "2021-06-17": 1440,
-      "2021-06-16": 1440
+      "2021-06-17": 1440
     }
   },
   {
@@ -493,10 +493,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 56,
-    "timeDay": 79,
+    "timeDay": 34,
     "timeWeek": 59,
     "timeMonth": 55,
-    "timeYear": 55,
+    "timeYear": 54,
     "dailyMinutesDown": {
       "2022-06-01": 40,
       "2022-02-03": 71,
