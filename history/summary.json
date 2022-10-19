@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 186,
-    "timeWeek": 132,
-    "timeMonth": 122,
-    "timeYear": 92,
+    "timeDay": 115,
+    "timeWeek": 139,
+    "timeMonth": 123,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
-    "timeDay": 119,
-    "timeWeek": 222,
-    "timeMonth": 228,
+    "timeDay": 235,
+    "timeWeek": 209,
+    "timeMonth": 222,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-05-09": 15,
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 331,
-    "timeDay": 278,
+    "timeDay": 487,
     "timeWeek": 321,
-    "timeMonth": 315,
+    "timeMonth": 325,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2022-07-08": 517,
@@ -90,7 +90,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 70,
+    "timeDay": 11,
     "timeWeek": 31,
     "timeMonth": 27,
     "timeYear": 22,
@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "25.43%",
+    "uptime": "25.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -113,7 +113,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 101,
+      "2022-10-19": 97,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -476,8 +477,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -492,8 +492,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 59,
-    "timeDay": 126,
-    "timeWeek": 67,
+    "timeDay": 60,
+    "timeWeek": 69,
     "timeMonth": 58,
     "timeYear": 60,
     "dailyMinutesDown": {
