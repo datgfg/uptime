@@ -45,12 +45,12 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
     "time": 330,
-    "timeDay": 362,
+    "timeDay": 475,
     "timeWeek": 379,
     "timeMonth": 344,
     "timeYear": 319,
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-24": 1003,
+      "2022-11-24": 1297,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
@@ -487,14 +487,14 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "81.71%",
+    "uptimeDay": "85.22%",
     "uptimeWeek": "77.52%",
-    "uptimeMonth": "92.04%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 61,
-    "timeDay": 75,
+    "timeDay": 72,
     "timeWeek": 70,
     "timeMonth": 64,
     "timeYear": 62,
@@ -511,7 +511,7 @@
       "2022-11-15": 102,
       "2022-11-14": 234,
       "2022-11-13": 333,
-      "2022-11-12": 171
+      "2022-11-12": 137
     }
   }
 ]
