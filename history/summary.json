@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 76,
-    "timeWeek": 105,
+    "timeDay": 65,
+    "timeWeek": 95,
     "timeMonth": 108,
     "timeYear": 99,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 271,
-    "timeWeek": 198,
-    "timeMonth": 197,
+    "timeDay": 197,
+    "timeWeek": 204,
+    "timeMonth": 189,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2022-05-09": 15,
@@ -47,13 +47,13 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 322,
-    "timeDay": 662,
-    "timeWeek": 405,
+    "timeDay": 451,
+    "timeWeek": 425,
     "timeMonth": 351,
     "timeYear": 310,
     "dailyMinutesDown": {
@@ -94,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 17,
-    "timeWeek": 30,
+    "timeDay": 11,
+    "timeWeek": 25,
     "timeMonth": 29,
     "timeYear": 23,
     "dailyMinutesDown": {}
@@ -106,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.28%",
+    "uptime": "22.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-08": 61,
+      "2023-02-09": 60,
+      "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -480,8 +481,7 @@
       "2022-02-13": 1440,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
-      "2022-02-10": 1440,
-      "2022-02-09": 1440
+      "2022-02-10": 1440
     }
   },
   {
@@ -496,9 +496,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 62,
-    "timeDay": 54,
-    "timeWeek": 69,
-    "timeMonth": 70,
+    "timeDay": 29,
+    "timeWeek": 58,
+    "timeMonth": 69,
     "timeYear": 64,
     "dailyMinutesDown": {
       "2022-11-25": 241,
