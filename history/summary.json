@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 74,
-    "timeWeek": 119,
+    "timeDay": 68,
+    "timeWeek": 117,
     "timeMonth": 96,
     "timeYear": 100,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 156,
-    "timeWeek": 157,
-    "timeMonth": 171,
+    "timeDay": 272,
+    "timeWeek": 172,
+    "timeMonth": 177,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2022-05-09": 15,
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 321,
-    "timeDay": 437,
-    "timeWeek": 346,
-    "timeMonth": 351,
+    "timeDay": 458,
+    "timeWeek": 376,
+    "timeMonth": 352,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2023-02-07": 21,
@@ -94,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 16,
-    "timeWeek": 29,
+    "timeDay": 13,
+    "timeWeek": 28,
     "timeMonth": 24,
     "timeYear": 23,
     "dailyMinutesDown": {}
@@ -106,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "21.85%",
+    "uptime": "21.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-26": 69,
+      "2023-02-27": 63,
+      "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -480,8 +481,7 @@
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
-      "2022-02-28": 1440,
-      "2022-02-27": 1440
+      "2022-02-28": 1440
     }
   },
   {
@@ -496,9 +496,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 62,
-    "timeDay": 50,
-    "timeWeek": 61,
-    "timeMonth": 76,
+    "timeDay": 56,
+    "timeWeek": 58,
+    "timeMonth": 77,
     "timeYear": 65,
     "dailyMinutesDown": {
       "2022-11-25": 241,
