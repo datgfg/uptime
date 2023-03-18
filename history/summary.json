@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 86,
-    "timeWeek": 83,
-    "timeMonth": 101,
-    "timeYear": 100,
+    "time": 97,
+    "timeDay": 369,
+    "timeWeek": 124,
+    "timeMonth": 112,
+    "timeYear": 101,
     "dailyMinutesDown": {
       "2022-12-05": 19
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 198,
-    "timeWeek": 185,
-    "timeMonth": 188,
-    "timeYear": 198,
+    "timeDay": 144,
+    "timeWeek": 179,
+    "timeMonth": 186,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2022-05-09": 15
     }
@@ -46,14 +46,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
-    "time": 319,
-    "timeDay": 290,
-    "timeWeek": 291,
-    "timeMonth": 326,
+    "time": 320,
+    "timeDay": 329,
+    "timeWeek": 298,
+    "timeMonth": 323,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2023-03-16": 21,
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 20,
-    "timeWeek": 17,
-    "timeMonth": 22,
+    "timeDay": 73,
+    "timeWeek": 25,
+    "timeMonth": 24,
     "timeYear": 23,
     "dailyMinutesDown": {}
   },
@@ -106,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "21.41%",
+    "uptime": "21.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-17": 61,
+      "2023-03-18": 59,
+      "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
@@ -480,8 +481,7 @@
       "2022-03-22": 1440,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
-      "2022-03-19": 1440,
-      "2022-03-18": 1440
+      "2022-03-19": 1440
     }
   },
   {
@@ -490,15 +490,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-ping",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 63,
-    "timeDay": 74,
-    "timeWeek": 142,
-    "timeMonth": 77,
+    "timeDay": 101,
+    "timeWeek": 144,
+    "timeMonth": 79,
     "timeYear": 65,
     "dailyMinutesDown": {
       "2022-11-25": 241,
