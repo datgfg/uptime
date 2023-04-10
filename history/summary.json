@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 85,
+    "timeDay": 79,
     "timeWeek": 83,
     "timeMonth": 95,
     "timeYear": 102,
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 262,
-    "timeWeek": 201,
-    "timeMonth": 182,
+    "timeDay": 147,
+    "timeWeek": 188,
+    "timeMonth": 183,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2022-05-09": 15
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.85%",
     "time": 315,
-    "timeDay": 79,
-    "timeWeek": 255,
-    "timeMonth": 285,
+    "timeDay": 149,
+    "timeWeek": 218,
+    "timeMonth": 287,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-04-03": 19,
@@ -98,8 +98,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
-    "timeDay": 26,
-    "timeWeek": 20,
+    "timeDay": 20,
+    "timeWeek": 21,
     "timeMonth": 20,
     "timeYear": 23,
     "dailyMinutesDown": {}
@@ -110,7 +110,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.90%",
+    "uptime": "20.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -121,7 +121,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-09": 57,
+      "2023-04-10": 56,
+      "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -484,8 +485,7 @@
       "2022-04-14": 1440,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
-      "2022-04-11": 1440,
-      "2022-04-10": 1440
+      "2022-04-11": 1440
     }
   },
   {
@@ -500,9 +500,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 63,
-    "timeDay": 75,
-    "timeWeek": 65,
-    "timeMonth": 76,
+    "timeDay": 72,
+    "timeWeek": 67,
+    "timeMonth": 77,
     "timeYear": 65,
     "dailyMinutesDown": {
       "2022-11-25": 241,
