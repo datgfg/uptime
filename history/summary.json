@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 81,
-    "timeWeek": 77,
+    "timeDay": 84,
+    "timeWeek": 79,
     "timeMonth": 101,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 114,
-    "timeWeek": 233,
-    "timeMonth": 201,
+    "timeDay": 152,
+    "timeWeek": 225,
+    "timeMonth": 193,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 311,
-    "timeDay": 275,
-    "timeWeek": 281,
-    "timeMonth": 316,
+    "timeDay": 130,
+    "timeWeek": 266,
+    "timeMonth": 313,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2023-04-03": 19,
@@ -96,8 +96,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 22,
-    "timeDay": 19,
-    "timeWeek": 16,
+    "timeDay": 20,
+    "timeWeek": 17,
     "timeMonth": 26,
     "timeYear": 24,
     "dailyMinutesDown": {}
@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.19%",
+    "uptime": "20.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -119,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-13": 55,
+      "2023-05-14": 60,
+      "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
@@ -482,8 +483,7 @@
       "2022-05-18": 1440,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
-      "2022-05-15": 1440,
-      "2022-05-14": 1440
+      "2022-05-15": 1440
     }
   },
   {
@@ -498,9 +498,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 64,
-    "timeDay": 67,
-    "timeWeek": 93,
-    "timeMonth": 91,
+    "timeDay": 84,
+    "timeWeek": 94,
+    "timeMonth": 92,
     "timeYear": 67,
     "dailyMinutesDown": {
       "2022-11-25": 241,
