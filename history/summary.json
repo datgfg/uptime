@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 60,
-    "timeWeek": 76,
+    "timeDay": 69,
+    "timeWeek": 74,
     "timeMonth": 100,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 149,
-    "timeWeek": 220,
-    "timeMonth": 187,
-    "timeYear": 198,
+    "time": 204,
+    "timeDay": 723,
+    "timeWeek": 286,
+    "timeMonth": 204,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 311,
-    "timeDay": 428,
-    "timeWeek": 308,
-    "timeMonth": 319,
+    "timeDay": 447,
+    "timeWeek": 311,
+    "timeMonth": 325,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2023-04-03": 19,
@@ -96,7 +96,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 22,
-    "timeDay": 11,
+    "timeDay": 14,
     "timeWeek": 16,
     "timeMonth": 25,
     "timeYear": 24,
@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.15%",
+    "uptime": "20.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -119,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-15": 58,
+      "2023-05-16": 58,
+      "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
@@ -482,8 +483,7 @@
       "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
-      "2022-05-17": 1440,
-      "2022-05-16": 1440
+      "2022-05-17": 1440
     }
   },
   {
@@ -498,8 +498,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 64,
-    "timeDay": 48,
-    "timeWeek": 91,
+    "timeDay": 68,
+    "timeWeek": 94,
     "timeMonth": 91,
     "timeYear": 67,
     "dailyMinutesDown": {
