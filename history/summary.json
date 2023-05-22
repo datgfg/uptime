@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 82,
-    "timeWeek": 110,
-    "timeMonth": 100,
+    "timeDay": 75,
+    "timeWeek": 113,
+    "timeMonth": 97,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2022-12-05": 19
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 245,
-    "timeWeek": 247,
+    "timeDay": 206,
+    "timeWeek": 255,
     "timeMonth": 210,
     "timeYear": 199,
     "dailyMinutesDown": {}
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 310,
-    "timeDay": 415,
-    "timeWeek": 351,
-    "timeMonth": 320,
+    "timeDay": 247,
+    "timeWeek": 325,
+    "timeMonth": 316,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-04-03": 19,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 22,
-    "timeDay": 16,
-    "timeWeek": 22,
-    "timeMonth": 26,
+    "timeDay": 14,
+    "timeWeek": 23,
+    "timeMonth": 24,
     "timeYear": 24,
     "dailyMinutesDown": {}
   },
@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "20.03%",
+    "uptime": "20.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -119,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-21": 60,
+      "2023-05-22": 60,
+      "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -482,8 +483,7 @@
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
-      "2022-05-23": 1440,
-      "2022-05-22": 1440
+      "2022-05-23": 1440
     }
   },
   {
@@ -498,9 +498,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 65,
-    "timeDay": 57,
-    "timeWeek": 63,
-    "timeMonth": 91,
+    "timeDay": 81,
+    "timeWeek": 67,
+    "timeMonth": 90,
     "timeYear": 67,
     "dailyMinutesDown": {
       "2022-11-25": 241,
