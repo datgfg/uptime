@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 70,
-    "timeWeek": 82,
-    "timeMonth": 108,
+    "timeDay": 86,
+    "timeWeek": 83,
+    "timeMonth": 106,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2022-12-05": 19
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 330,
-    "timeWeek": 170,
+    "timeDay": 149,
+    "timeWeek": 181,
     "timeMonth": 197,
-    "timeYear": 197,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.85%",
-    "time": 313,
-    "timeDay": 435,
-    "timeWeek": 247,
-    "timeMonth": 287,
+    "time": 312,
+    "timeDay": 120,
+    "timeWeek": 246,
+    "timeMonth": 281,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2023-06-21": 24,
@@ -99,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 15,
+    "timeDay": 22,
     "timeWeek": 19,
-    "timeMonth": 24,
+    "timeMonth": 23,
     "timeYear": 24,
     "dailyMinutesDown": {}
   },
@@ -111,7 +111,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.24%",
+    "uptime": "19.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -122,7 +122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-02": 74,
+      "2023-07-03": 72,
+      "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -485,8 +486,7 @@
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
-      "2022-07-04": 1440,
-      "2022-07-03": 1440
+      "2022-07-04": 1440
     }
   },
   {
@@ -501,9 +501,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 65,
-    "timeDay": 51,
-    "timeWeek": 57,
-    "timeMonth": 65,
+    "timeDay": 71,
+    "timeWeek": 62,
+    "timeMonth": 64,
     "timeYear": 66,
     "dailyMinutesDown": {
       "2022-11-25": 241,
