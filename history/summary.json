@@ -6,17 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 284,
-    "timeWeek": 183,
+    "timeDay": 186,
+    "timeWeek": 152,
     "timeMonth": 109,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2023-07-14": 10,
       "2022-12-05": 19
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 184,
-    "timeWeek": 292,
+    "timeDay": 73,
+    "timeWeek": 266,
     "timeMonth": 216,
-    "timeYear": 196,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
-    "time": 310,
-    "timeDay": 285,
-    "timeWeek": 263,
+    "time": 309,
+    "timeDay": 96,
+    "timeWeek": 227,
     "timeMonth": 254,
-    "timeYear": 310,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-07-04": 19,
       "2023-06-21": 24,
@@ -100,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 72,
-    "timeWeek": 35,
+    "timeDay": 23,
+    "timeWeek": 28,
     "timeMonth": 22,
     "timeYear": 24,
     "dailyMinutesDown": {}
@@ -112,7 +111,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.01%",
+    "uptime": "19.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -123,7 +122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-14": 1250,
+      "2023-07-15": 71,
+      "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
@@ -486,8 +486,7 @@
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
-      "2022-07-16": 1440,
-      "2022-07-15": 1440
+      "2022-07-16": 1440
     }
   },
   {
@@ -502,8 +501,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 65,
-    "timeDay": 101,
-    "timeWeek": 66,
+    "timeDay": 29,
+    "timeWeek": 57,
     "timeMonth": 55,
     "timeYear": 66,
     "dailyMinutesDown": {
