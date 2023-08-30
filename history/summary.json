@@ -11,9 +11,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.96%",
     "time": 109,
-    "timeDay": 377,
-    "timeWeek": 161,
-    "timeMonth": 135,
+    "timeDay": 106,
+    "timeWeek": 164,
+    "timeMonth": 136,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2023-08-09": 94,
@@ -37,8 +37,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 107,
-    "timeWeek": 159,
+    "timeDay": 31,
+    "timeWeek": 147,
     "timeMonth": 153,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 304,
-    "timeDay": 296,
-    "timeWeek": 312,
-    "timeMonth": 283,
+    "timeDay": 110,
+    "timeWeek": 304,
+    "timeMonth": 281,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2023-07-18": 21,
@@ -108,8 +108,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
-    "timeDay": 650,
-    "timeWeek": 115,
+    "timeDay": 22,
+    "timeWeek": 116,
     "timeMonth": 47,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.24%",
+    "uptime": "18.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -131,7 +131,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-29": 48,
+      "2023-08-30": 47,
+      "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -494,8 +495,7 @@
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
-      "2022-08-31": 1440,
-      "2022-08-30": 1440
+      "2022-08-31": 1440
     }
   },
   {
@@ -510,8 +510,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.35%",
     "time": 68,
-    "timeDay": 102,
-    "timeWeek": 66,
+    "timeDay": 33,
+    "timeWeek": 61,
     "timeMonth": 100,
     "timeYear": 69,
     "dailyMinutesDown": {
