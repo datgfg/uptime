@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 116,
-    "timeDay": 95,
-    "timeWeek": 104,
-    "timeMonth": 125,
+    "timeDay": 111,
+    "timeWeek": 110,
+    "timeMonth": 126,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2023-10-09": 16,
@@ -38,8 +38,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 117,
-    "timeWeek": 302,
+    "timeDay": 176,
+    "timeWeek": 282,
     "timeMonth": 216,
     "timeYear": 194,
     "dailyMinutesDown": {
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 301,
-    "timeDay": 144,
-    "timeWeek": 303,
-    "timeMonth": 326,
-    "timeYear": 301,
+    "time": 302,
+    "timeDay": 612,
+    "timeWeek": 324,
+    "timeMonth": 331,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2023-10-07": 17,
       "2023-09-13": 37,
@@ -111,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 22,
-    "timeWeek": 44,
+    "timeDay": 16,
+    "timeWeek": 45,
     "timeMonth": 40,
     "timeYear": 29,
     "dailyMinutesDown": {}
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-02": 1325,
+      "2023-11-03": 50,
+      "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -497,8 +498,7 @@
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
-      "2022-11-04": 1440,
-      "2022-11-03": 1440
+      "2022-11-04": 1440
     }
   },
   {
@@ -508,17 +508,16 @@
     "slug": "tcp-ping",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
-    "time": 109,
-    "timeDay": 10243,
-    "timeWeek": 3462,
-    "timeMonth": 987,
-    "timeYear": 117,
+    "time": 129,
+    "timeDay": 15325,
+    "timeWeek": 5161,
+    "timeMonth": 1450,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2023-11-02": 13,
       "2023-08-21": 16,
       "2022-11-25": 241,
       "2022-11-24": 206,
@@ -532,7 +531,7 @@
       "2022-11-16": 226,
       "2022-11-15": 102,
       "2022-11-14": 234,
-      "2022-11-13": 120
+      "2022-11-13": 136
     }
   }
 ]
