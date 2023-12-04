@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 114,
-    "timeDay": 87,
-    "timeWeek": 89,
+    "timeDay": 89,
+    "timeWeek": 91,
     "timeMonth": 86,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -37,10 +37,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 26,
-    "timeWeek": 212,
-    "timeMonth": 200,
+    "time": 194,
+    "timeDay": 308,
+    "timeWeek": 231,
+    "timeMonth": 203,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2023-08-25": 15
@@ -58,9 +58,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 306,
-    "timeDay": 136,
-    "timeWeek": 295,
-    "timeMonth": 338,
+    "timeDay": 443,
+    "timeWeek": 292,
+    "timeMonth": 337,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2023-11-16": 24,
@@ -110,7 +110,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 23,
+    "timeDay": 11,
     "timeWeek": 18,
     "timeMonth": 19,
     "timeYear": 29,
@@ -122,7 +122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "16.79%",
+    "uptime": "16.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -133,7 +133,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-03": 55,
+      "2023-12-04": 53,
+      "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
@@ -496,8 +497,7 @@
       "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
-      "2022-12-05": 1440,
-      "2022-12-04": 1440
+      "2022-12-05": 1440
     }
   },
   {
@@ -511,10 +511,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 25,
+    "time": 320,
+    "timeDay": 31,
     "timeWeek": 37,
-    "timeMonth": 1851,
+    "timeMonth": 87,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2023-08-21": 16
