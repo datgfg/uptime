@@ -50,7 +50,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "93.94%",
     "uptimeWeek": "99.13%",
@@ -133,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-12": 558,
+      "2023-12-12": 569,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
