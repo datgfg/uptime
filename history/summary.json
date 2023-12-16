@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 113,
-    "timeDay": 85,
-    "timeWeek": 82,
-    "timeMonth": 82,
+    "timeDay": 93,
+    "timeWeek": 81,
+    "timeMonth": 83,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2023-10-09": 16,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 143,
-    "timeWeek": 147,
-    "timeMonth": 209,
+    "timeDay": 215,
+    "timeWeek": 164,
+    "timeMonth": 212,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2023-08-25": 15
@@ -57,9 +57,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.88%",
     "time": 310,
-    "timeDay": 314,
-    "timeWeek": 454,
-    "timeMonth": 365,
+    "timeDay": 444,
+    "timeWeek": 480,
+    "timeMonth": 363,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2023-12-15": 51,
@@ -111,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 21,
-    "timeWeek": 18,
+    "timeDay": 16,
+    "timeWeek": 17,
     "timeMonth": 17,
     "timeYear": 29,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "16.62%",
+    "uptime": "16.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-15": 226,
+      "2023-12-16": 52,
+      "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -497,8 +498,7 @@
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
-      "2022-12-17": 1440,
-      "2022-12-16": 1440
+      "2022-12-17": 1440
     }
   },
   {
@@ -513,8 +513,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 68,
-    "timeWeek": 38,
+    "timeDay": 35,
+    "timeWeek": 39,
     "timeMonth": 84,
     "timeYear": 366,
     "dailyMinutesDown": {
