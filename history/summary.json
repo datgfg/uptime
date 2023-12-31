@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 112,
-    "timeDay": 69,
-    "timeWeek": 80,
+    "timeDay": 81,
+    "timeWeek": 82,
     "timeMonth": 85,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 266,
-    "timeWeek": 230,
-    "timeMonth": 186,
+    "timeDay": 64,
+    "timeWeek": 189,
+    "timeMonth": 182,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2023-08-25": 15
@@ -52,17 +52,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.88%",
-    "time": 309,
-    "timeDay": 376,
-    "timeWeek": 346,
-    "timeMonth": 341,
-    "timeYear": 308,
+    "time": 308,
+    "timeDay": 252,
+    "timeWeek": 300,
+    "timeMonth": 335,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-12-30": 10,
       "2023-12-15": 51,
       "2023-12-12": 222,
       "2023-11-16": 24,
@@ -112,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 14,
-    "timeWeek": 17,
+    "timeDay": 22,
+    "timeWeek": 18,
     "timeMonth": 18,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -127,7 +126,7 @@
     "uptime": "16.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -135,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-30": 1066,
+      "2023-12-31": 55,
+      "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -498,8 +498,7 @@
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
-      "2023-01-01": 1440,
-      "2022-12-31": 1440
+      "2023-01-01": 1440
     }
   },
   {
@@ -514,9 +513,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 48,
-    "timeWeek": 42,
-    "timeMonth": 73,
+    "timeDay": 25,
+    "timeWeek": 39,
+    "timeMonth": 71,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2023-08-21": 16
