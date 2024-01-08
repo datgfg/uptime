@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 112,
-    "timeDay": 70,
-    "timeWeek": 80,
-    "timeMonth": 82,
+    "timeDay": 67,
+    "timeWeek": 78,
+    "timeMonth": 81,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2023-10-09": 16,
@@ -36,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 155,
-    "timeWeek": 248,
-    "timeMonth": 201,
+    "time": 194,
+    "timeDay": 208,
+    "timeWeek": 227,
+    "timeMonth": 202,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2023-08-25": 15
@@ -57,9 +57,9 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.88%",
     "time": 309,
-    "timeDay": 573,
-    "timeWeek": 311,
-    "timeMonth": 345,
+    "timeDay": 369,
+    "timeWeek": 293,
+    "timeMonth": 348,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2023-12-15": 51,
@@ -111,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 11,
-    "timeWeek": 18,
+    "timeDay": 25,
+    "timeWeek": 20,
     "timeMonth": 18,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "16.32%",
+    "uptime": "16.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-07": 57,
+      "2024-01-08": 54,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -497,8 +498,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -513,8 +513,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 36,
-    "timeWeek": 42,
+    "timeDay": 37,
+    "timeWeek": 40,
     "timeMonth": 61,
     "timeYear": 365,
     "dailyMinutesDown": {
