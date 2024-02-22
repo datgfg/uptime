@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 109,
-    "timeDay": 60,
-    "timeWeek": 79,
+    "time": 108,
+    "timeDay": 74,
+    "timeWeek": 78,
     "timeMonth": 94,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -36,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 197,
-    "timeWeek": 174,
-    "timeMonth": 222,
+    "time": 197,
+    "timeDay": 182,
+    "timeWeek": 186,
+    "timeMonth": 221,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2023-08-25": 15
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 334,
-    "timeDay": 353,
-    "timeWeek": 257,
-    "timeMonth": 298,
-    "timeYear": 336,
+    "timeDay": 364,
+    "timeWeek": 293,
+    "timeMonth": 295,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2024-01-10": 113,
       "2023-12-15": 51,
@@ -111,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 10,
-    "timeWeek": 17,
+    "timeDay": 14,
+    "timeWeek": 16,
     "timeMonth": 17,
     "timeYear": 27,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.75%",
+    "uptime": "15.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -134,7 +134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-21": 50,
+      "2024-02-22": 49,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -497,8 +498,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   },
   {
@@ -513,8 +513,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 28,
-    "timeWeek": 38,
+    "timeDay": 45,
+    "timeWeek": 41,
     "timeMonth": 41,
     "timeYear": 361,
     "dailyMinutesDown": {
